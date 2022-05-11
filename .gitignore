@@ -4,3 +4,4 @@ main.out
 main.fls
 .latexrun.db
 .latexrun.db.lock
+*.synctex.gz
